@@ -1,0 +1,2 @@
+# kouhobi-dasuyo-kun-public
+Googleカレンダーで空き枠カレンダーを運用する場合に、空き枠を判定してスプシに出力するスクリプト
